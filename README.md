@@ -1,10 +1,14 @@
 
 ####Controlling VESC via serial port of remote node
 
+
+
 ##### Example REPL session
 
-	erl -pa ebin
 
+```
+	erl -pa ebin
+```
 
 ```lang-erl
 
