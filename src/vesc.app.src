@@ -1,0 +1,6 @@
+{application, vesc, [
+    {description, "vesc"},
+    {vsn, "0.1"},
+    {registered, []},
+    {applications, [other]}
+]}.
